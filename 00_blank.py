@@ -1,0 +1,2 @@
+print("Hekko")
+print("black")
